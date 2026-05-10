@@ -1,3 +1,4 @@
+<img width="1557" height="1032" alt="Screenshot 2026-05-10 165012" src="https://github.com/user-attachments/assets/82d566af-1691-419b-bac1-57f4044e7eb9" />
 File Integrity Checker
 Internship Task 1 - CODTECH IT SOLUTIONS
 
